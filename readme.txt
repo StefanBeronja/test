@@ -9,5 +9,6 @@
 		<p>This is testing file and tag's name is paragraph.</p>
 		<!--This is new part for new committ-->
 		<p>Let's se if it works</p>
+		<p>Starting git diff commad to see if it works</p>
 	</body>
 </html>
