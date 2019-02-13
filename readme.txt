@@ -10,5 +10,6 @@
 		<!--This is new part for new committ-->
 		<p>Let's se if it works</p>
 		<p>Starting git diff commad to see if it works</p>
+		<h2>This is new heading line</h2>
 	</body>
 </html>
