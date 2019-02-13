@@ -7,5 +7,7 @@
 	<body>
 		<h1>This is headline</h1>
 		<p>This is testing file and tag's name is paragraph.</p>
+		<!--This is new part for new commit-->
+		<p>Let's se if it works</p>
 	</body>
 </html>
